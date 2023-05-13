@@ -42,7 +42,7 @@ The app consists of multiple reusable components which are combined to make the 
 
 To apply, please submit your completed project in a GitHub repository along with your name, email, and repository URL via the Google form. We look forward to seeing your work and considering you for the next interview round!
 
-[Submit Your Assignment Here](https://forms.gle/w43r7eoCRfyf7muQ9)
+→ [Submit Your Assignment Here](https://forms.gle/w43r7eoCRfyf7muQ9)
 
 ---
 If you have any question, please reach at [arvind.tech@thefuture.university](mailto:arvind.tech@thefuture.university)
