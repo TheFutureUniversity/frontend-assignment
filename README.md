@@ -1,10 +1,10 @@
 # Frontend Intern Assignment
 
-You have to make a simple todo list in React.js, where the user can add, delete and mark complete the todo item.
+You have to make a simple todo list in React.js, where the user can add, delete, and mark complete the todo item.
 
 <img width="1280" alt="MacBook Air - 1" src="https://github.com/TheFutureUniversity/frontend-assignment/assets/21043614/ca93bea6-1d40-4da9-9036-1ca2f2c79051">
 
-The app consists of multiple reuseable components which are combied to make the final UI.
+The app consists of multiple reusable components which are combined to make the final UI.
 
 ## Requirements:
 
@@ -23,7 +23,7 @@ The app consists of multiple reuseable components which are combied to make the 
     Checkbox will have a checkbox input and a label. The label should be passed from props.
 
   - __TodoRow.tsx__
-    This will contain the `Checkbox` and `Button` component. Button should only be visible on hover.
+    This will contain the `Checkbox` and `Button` component. The button should only be visible on hover.
 
 - Develop the final application using React.js and combine the reusable components to achieve the desired UI.
 - Ensure that all code is properly structured and well documented.
